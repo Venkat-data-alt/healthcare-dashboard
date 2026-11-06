@@ -1,6 +1,6 @@
 # healthcare-dashboard
 Power BI project analysing healthcare data with interactive dashboards and business insights.
-🏥 Healthcare Patient Analytics Dashboard
+ 🏥 Healthcare Patient Analytics Dashboard
 📌 Project Overview
 
 The Healthcare Patient Analytics Dashboard is an interactive Power BI solution developed to analyze hospital performance across key operational and financial metrics. The dashboard provides insights into patient volume, revenue generation, patient satisfaction, departmental performance, doctor performance, and readmission trends.
